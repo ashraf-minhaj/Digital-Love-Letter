@@ -1,3 +1,12 @@
+""" * Digital Love Letter with Python*
+
+author: ashraf minhaj
+mail: ashraf_minhaj@yahoo.com
+
+License: Copyright (C) Ashraf Minhaj.
+General Public License (GPL3+)
+"""
+
 import turtle
 
 screen = turtle.getscreen()
